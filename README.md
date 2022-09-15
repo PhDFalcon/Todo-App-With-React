@@ -1,3 +1,9 @@
+<h1>Todo App React İle Yapıldı</h1>
+
+<h2>LocalStorage İle Ekleme, Değiştirme ve Silme İşlemleri Yerel Depoda Güncel Tutuluyor</h2>
+
+![](screen.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
